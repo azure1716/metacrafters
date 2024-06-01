@@ -32,7 +32,7 @@ function listNFTs () {
         console.log("\nName  \t:"+NFTs[i].name);
         console.log("Eye Color :"+NFTs[i].eyeColor);
         console.log("Jewel \t:"+NFTs[i].jewel);
-        console.log("Bling \t:"+NFTs[i].background);
+        console.log("Background \t:"+NFTs[i].background);
     }
 
 }
